@@ -70,11 +70,11 @@ for (i = 0; i < p; i++){
 
 function runBGSlideShow() {
     if (document.body) {
-        document.body.background = Pic[j];
+        document.body.background = preLoad[j];
         j = (j + 1)%p;
    }
 }
-t = setTimeout('runBGSlideShow()', speed);
+t = setTimeout('runBGSlideShow()', speed)
 
 
 </script>
