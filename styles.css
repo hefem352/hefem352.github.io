@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 50;
+	}
+
+div { vertical-align; }
+
+.no-gutters {
+
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.yellow{
+	width: 768px;
+	height: 600px;
+	background: #F8E71C;
+	margin bottom
+	margin: 50 auto  auto;}
+
+.blue{
+	width: 400px;
+	height: 400px;
+	background: #202665;
+	padding-top: 150;
+
+	margin: 0 auto 100 auto;}
+
+
+.green{
+	width: 250px;
+	height: 250px;
+	background: #009E4F;
+	margin: 0 auto 0 auto;}
+
+.red{
+	width: 150px;
+	height: 40px;
+	background: #ED2025;
+	margin: 0 auto 0 auto;}
+
+.btmred{
+
+	width: 150px;
+	height: 40px;
+	background: #D0021B;
+	margin: 0 auto 0 auto;}
+
+
+
+
+.c {
+	background: #fff;
+	margin: 0 15px 30px 15px;
+	font-size: 15px;
+	display: inline-block;
+
+}
+
+

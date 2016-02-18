@@ -1,0 +1,203 @@
+a: link {}
+a: visted {}
+a: hover {}
+a: activate {}
+ ul {
+
+ margin:auto;
+ }
+
+
+ .background{
+ 	width:768px;
+ 	height:630px;
+ 	background: #b0ab96;
+ 	margin:auto;
+ }
+
+ .a {
+ 	width:156px;
+ 	height:312px;
+ 	background:#b0ab96;
+ 	padding: 50px;
+ }
+
+.b {
+	width:412px;
+ 	height:110px;
+ 	background:#495157;
+ 	margin: -412px 0px 0px 256px;
+ 	padding: 50px;
+ }
+
+.c { 
+
+ 	width:156px;
+ 	height:320px;
+ 	background:#202c28;
+ 	margin: 0px 0px 0px 512px;
+ 	padding: 50px;
+
+ }
+
+ .d { 
+
+ 	width:412px;
+ 	height:110px;
+ 	background:#b6b7b0;
+ 	margin: -210px 0px 0px 0px;
+ 	padding: 50px;
+
+ }
+
+ .e { 
+
+ 	width:156px;
+ 	height:110px;
+ 	background:#40443c;
+ 	margin: -420px 0px 0px 256px;
+ 	padding: 50px;
+
+}
+
+.f { 
+
+ 	width:156px;
+ 	height:110px;
+ 	background:#40443c;
+ 	margin: -420px 0px 0px 256px;
+ 	padding: 50px;
+
+}
+
+.line1 {
+	width:156px;
+ 	height:0px;
+ 	margin: 0px 50px 0px 0px;
+ 	padding:10px 0px 0px 0px;
+}
+
+
+.line2 {
+	width:10px;
+ 	height:310px;
+ 	margin: 0px 50px 0px 73px;
+
+}
+  .color1 {
+	background:#1b2723;
+}
+  	
+  .color2 {
+	background:#d6d6d2;
+}
+  	
+
+
+.a1 {
+	width:156px;
+ 	height:310px;
+ 	background:#cfcfcb;
+ 	margin: 0px 0px 0px 0px;
+ 	padding: 0px 0px 0px 0px;
+	}
+
+
+
+.box {
+	width:392px;
+ 	height:90px;
+ 	background:#1d2a26;
+ 	margin: 0px;
+ 	padding: 10px;
+ }
+
+.bline1 {
+	width:392px;
+ 	height:10px;
+ 	background:#d4d4d0;
+ 	margin: 0px 0px 10px 0px; 
+ 	
+ }
+.dbox2 {
+	width:57px;
+ 	height:90px;
+ 	background:#494157;
+ 	margin: 0px 0px 0px 0px; 
+ 	
+ 
+ }
+.dbox3 {
+	width:57px;
+ 	height:90px;
+ 	background:#494157;
+ 	margin: -90px 10px 0px 67px; 
+ 	
+ }
+
+ .dbox4 {
+	width:57px;
+ 	height:90px;
+ 	background:#494157;
+ 	margin: -90px 0px 0px 134px; 
+ 	
+ }
+ .dbox5 {
+	width:57px;
+ 	height:90px;
+ 	background:#494157;
+ 	margin: -90px 0px 0px 201px; 
+ 	
+ }
+
+  .dbox6 {
+	width:57px;
+ 	height:90px;
+ 	background:#494157;
+ 	margin: -90px 0px 0px 268px; 
+ 	
+ }
+
+ .dbox7 {
+	width:57px;
+ 	height:90px;
+ 	background:#494157;
+ 	margin: -90px 0px 10px 335px; 
+ 	
+ }
+
+.circle {
+	width:110px;
+	height:110px;
+	border-radius:110px;
+	background:#d8d8d8;
+ 	margin: 0px 23px 0px 23px
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
