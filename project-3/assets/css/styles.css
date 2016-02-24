@@ -73,10 +73,11 @@ padding: 20px
 
 .next {
   position:absolute;
-  width: 100px;
-  height: 50px;
+  width: 99px;
+  height: 48px;
   top: 30px;
   right: 30px;
+  background-color: black;
 }
  
 
@@ -95,8 +96,6 @@ padding: 20px
   vertical-align: top;
 }
 
-
-
 .objectglass {
   height: 300px;
 }
@@ -111,22 +110,30 @@ padding: 20px
 
 .mainobject {
   border: 1px none;
-  height: 400px;
-  width: 600px;
+  height: 420px;
+  width: 500px;
   overflow: hidden;
   margin:auto; 
-  vertical-align: middle;
+  vertical-align: center;
+  padding-top: 40px;
+  padding-left: 90px;
 }
 
 .description {
-  font-size: 15px;
+  font-size: 20px;
+  width: 900px;
+  padding-top: 50px;
+  
 }
 
 .maintext {
   font-size: 15px;
   height: 344px;
-  width: 494px;
-  padding: 0px }
+  width: 600px;
+  padding: 0px;
+  display: inline-block;
+
+  
 
 
 }
