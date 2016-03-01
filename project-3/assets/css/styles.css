@@ -18,6 +18,10 @@ a:visited {
 
 }
 
+.special {
+  font-family: Lucida Grande;
+}
+
 #textbox {
 padding: 20px
 }
@@ -56,10 +60,10 @@ padding: 20px
   position: fixed;
   top: 120px;
   left: 220px;
-  right: 100px;
+  right: 120px;
   bottom: 20px;
   border: 4px solid black;
-  padding: 50px 20px 0px 160px;
+  padding: 25px 20px 0px 210px;
   font-size: 0;
   overflow: auto;
 }
@@ -75,7 +79,7 @@ padding: 20px
   position:absolute;
   width: 99px;
   height: 48px;
-  top: 30px;
+  top: 35px;
   right: 30px;
   background-color: black;
 }
@@ -108,7 +112,7 @@ padding: 20px
   height: 125px;
 }
 
-.mainobject {
+.ananas {
   border: 1px none;
   height: 420px;
   width: 500px;
@@ -119,11 +123,56 @@ padding: 20px
   padding-left: 90px;
 }
 
+.nofar {
+  border: 1px none;
+  height: 420px;
+  width: 500px;
+  overflow: hidden;
+  margin:auto; 
+  vertical-align: center;
+  padding-top: 40px;
+  padding-left: 0px;
+}
+
+.bear {
+  border: 1px none;
+  height: 420px;
+  width: 500px;
+  overflow: hidden;
+  margin:auto; 
+  vertical-align:center;
+  padding-top: 40px;
+  padding-left: 80px;
+}
+
+
+.plate {
+  border: 1px none;
+  height: 420px;
+  width: 600px;
+  overflow: hidden;
+  margin:auto; 
+  vertical-align:center;
+  padding-top: 40px;
+  padding-left: 80px;
+}
+
+.travel {
+  border: 1px none;
+  height: 420px;
+  width: 500px;
+  float: middle;
+  margin:auto; 
+  vertical-align:center;
+  padding-top: 40px;
+  padding-left: 90px;
+}
+
 .description {
-  font-size: 20px;
+  font-size: 15px;
   width: 900px;
-  padding-top: 50px;
-  
+  position: fixed;
+  bottom: 40px;
 }
 
 .maintext {
@@ -139,6 +188,7 @@ padding: 20px
 }
 .image {
   display: none;
+  padding-top: 10px;
   
 }
 
