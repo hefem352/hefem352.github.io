@@ -125,13 +125,12 @@ padding: 25px
 
 .nofar {
   border: 1px none;
-  height: 420px;
-  width: 500px;
+  height: 100%;
+  width: 100%;
   overflow: hidden;
   margin:auto; 
-  vertical-align: center;
   padding-top: 40px;
-  padding-left: 0px;
+  padding-left: 20%;
 }
 
 .bear {
@@ -182,14 +181,15 @@ padding: 25px
   padding: 0px;
   display: inline-block;
 
-  
-
-
 }
 .image {
   display: none;
   padding-top: 10px;
-  
+
+}
+.objectimage {
+  max-width: 100%;
+  max-height: 100%;
 }
 
 .object:hover .image {
