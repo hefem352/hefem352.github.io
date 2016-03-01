@@ -23,7 +23,7 @@ a:visited {
 }
 
 #textbox {
-padding: 25px
+padding: 20px
 }
    
  .header {
@@ -121,6 +121,7 @@ padding: 25px
   margin:auto; 
   padding-top: 40px;
   padding-left: 35%;
+  padding-bottom: 20px;
 }
 
 
@@ -144,7 +145,7 @@ padding: 25px
 }
 
 .maintext {
-  font-size: 20px;
+  font-size: 17px;
   height: 344px;
   width: 600px;
   padding: 0px;
@@ -160,7 +161,7 @@ padding: 25px
   max-width: 100%;
   max-height: 100%;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .object:hover .image {
