@@ -1,0 +1,17 @@
+.letter {
+	width:200px;
+	height:300px;
+	position:relative;
+	background-color:yellow;
+}
+
+.line {
+	background-color:black;
+	width: 20px;
+	height: 200px;
+	position:absoulue;
+	right: 10px;
+	top: 10px;
+
+
+}
