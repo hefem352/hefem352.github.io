@@ -84,10 +84,8 @@ h4 { color:"black";
   bottom: 20px;
   border: 2px ;
   padding: 40px 0px 0px 0px;
-  overflow: auto;
-  display: inline-block;
+  
 }
-
 
 .container2 {
   position: fixed;
@@ -97,9 +95,7 @@ h4 { color:"black";
   bottom: 20px;
   border: 2px ;
   padding: 40px 0px 0px 0px;
-  overflow: auto;
-  display: inline-block;
-}
+ }
 
 .object {
   font-size: 25px;
@@ -123,7 +119,6 @@ h4 { color:"black";
 	margin: 0px, auto, 60px, auto;
 	
 }
-	
 	div.content img {
 	margin: 0px 0px 20px 0px;
 	width: 	100%;

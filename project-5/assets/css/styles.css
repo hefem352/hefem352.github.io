@@ -1,0 +1,47 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.object:hover .image {
+  display: block;
+}
+
+.object:hover .text {
+  display: none;
+}
+
+
+ .header {
+  font-size: 17px;
+  text-shadow: 0 1px 0 yellow;
+  font-family: helvetica;
+  border: 4px;
+  height: 300px;
+  width: 150px;
+  overflow: hidden;
+  padding: 10px;
+  text-align: left;
+  vertical-align:middle;
+  position: fixed;
+  top:0;
+  bottom:20;
+  left:40;
+  }
+
+
+
