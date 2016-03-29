@@ -3,8 +3,13 @@
 .word-wrapper{
 	display:inline-block;
 	margin-right:20px;
-	margin-left:120px;
-	margin-top: 80px;
+	margin-left:30px;
+	margin-top: 30px;
+}
+
+.north {
+display:inline-block;
+margin:0px 0px 0px 0px;
 }
 
 .letter-wrapper {
@@ -32,12 +37,12 @@
 .horizontalhalf{
 	width:100px;
 	height:1px;
+
 }
 
 .white{background:white}
 .blue{background:blue;}
-.red{background:#f00;}
-.yellow{background:#ff0}
+
 
 .a-left{
 	
@@ -114,7 +119,7 @@
 	}
 
 .circlemid2 {
-	border-radius:50%;
+
 	width: 7px;
 	height: 7px; 
 	margin: -57px 0px 50px 95px; 
