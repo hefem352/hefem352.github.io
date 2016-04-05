@@ -59,25 +59,17 @@ a:hover {
   position: absolute;
   top: 290px;
   right:20px;
- 
-  
-  }
+ }
 
-.word-wrapper{
-	display:inline-block;
-	position: relative;
-	height: 85%;
-	width: 85%;
-	margin-top: 10%;
-	margin-right: 20%;
-	margin-left: 15%;
-	border: 4px black;
-
+.word {
+  margin-right: 10px;
+  display: inline-block;
 }
+
 
 .letter-wrapper {
 	display:inline-block;
-	position: relative;
+	margin-left: 8%;
 	margin-bottom: 20px;
 }
 
@@ -90,7 +82,10 @@ margin:0px 0px 0px 0px;
 .letter {
 	width:150px;
 	height:200px;
+	margin-bottom: 3%;
+	margin-left: 2px;
 	position:relative;
+	display: inline-block;
 }
 .bar{
 	position:absolute;
@@ -921,6 +916,9 @@ margin:0px 0px 0px 0px;
 }
 
 
+.space {
+  width: 200px;
+}
 
 
 
