@@ -64,7 +64,7 @@ html {
 
 
 a:link {
-background-color: none;
+background-color: black;
 }
 
 a:visited {
@@ -95,8 +95,18 @@ height: 100;
 width: 1000;
 top: 15%;
 left: 5%;
+}
+
+
+.twitter {
+
+height: 100;
+width: 1100;
+top: 1%;
+margin-left: 5%;
 transform: scale(.5);
 }
+
 
 .pornhub {
 
