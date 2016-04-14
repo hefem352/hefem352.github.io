@@ -164,6 +164,17 @@ top: 2%;
 transform: scale(.5);
 }
 
+.onlybirds {
+height: 100;
+width: 1550;
+position: absolute;
+top: 2%;
+transform: scale(.5);
+}
+
+
+
+
 
  .north {
   font-size: 10px;
@@ -263,6 +274,7 @@ transform: scale(.5);
 
 
 
+
 .mediacircle {
 	border-radius:50%;
 	width: 1100px;
@@ -274,6 +286,7 @@ transform: scale(.5);
 	position: absolute;
 	top: 8%;
 	left: 4%;
+
 }
 
 .sexcircle {
@@ -3016,7 +3029,7 @@ transform: scale(.5);
 	width: 20px;
 	height: 20px; 
 	top:-50%;
-	left:90%;
+	margin-left:90%;
 	background-color: aqua;
 	position: relative;
 	z-index: 1;
