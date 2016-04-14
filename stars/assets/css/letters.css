@@ -66,17 +66,29 @@ html {
 
 
 
+.test {
+	background: #000;
+	border: 1px solid #ff0;
+	padding: 20px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100000;
+	color: #fff;
+}
+
 a:link {
-background-color: black;
+  background-color: black;
+  color: #333;
 }
 
 a:visited {
   background-color: white;
-
+  color: red;
 }
 
 a:hover {
-    color:aqua;
+  color: aqua;
 }
 
 .object:hover .image {
@@ -144,6 +156,13 @@ top: 290%;
 transform: rotate(12deg);
 }
 
+.youlike {
+height: 100;
+width: 1550;
+position: absolute;
+top: 2%;
+transform: scale(.5);
+}
 
 
  .north {
@@ -2989,4 +3008,17 @@ transform: rotate(12deg);
 	position: absolute;
 	margin-top:10px;
 	bottom:3px;
+}
+
+
+.word-circle {
+	border-radius:50%;
+	width: 20px;
+	height: 20px; 
+	top:-50%;
+	left:90%;
+	background-color: aqua;
+	position: relative;
+	z-index: 1;
+
 }
