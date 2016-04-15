@@ -49,8 +49,8 @@ html, body {
 }
 
 .container {
-  width: 250%;
-  height: 250%;
+  width: 300%;
+  height: 300%;
   background-color: transparent;
   position: absolute;
   top:0;
@@ -108,8 +108,10 @@ a:hover {
 
 height: 100;
 width: 1000;
-transform: rotate(-17deg);
-
+top:-300px;
+left:-200px;
+position: absolute;
+transform: rotate(-9deg);
 }
 .twitter {
 
@@ -128,6 +130,17 @@ margin-top: 15%;
 margin-left: 10%;
 transform: rotate(-4deg);
 }
+
+.xnxx {
+
+height: 100;
+width: 1200;
+margin-top: 10%;
+margin-left: 10%;
+transform: rotate(6deg);
+}
+
+
 
 .expedia {
 height: 100;
@@ -152,15 +165,27 @@ transform: rotate(-17deg);
 height: 100;
 width: 1250;
 position: absolute;
-top: 290%;
+top: 70%;
 transform: rotate(12deg);
 }
+
+
+.watched{
+height: 100;
+width: 1250;
+position: absolute;
+top: 30%;
+right:-25%;
+transform: rotate(12deg);
+}
+
 
 .youlike {
 height: 100;
 width: 1550;
 position: absolute;
-top: 2%;
+top: -2%;
+left:-100px;
 transform: scale(.5);
 }
 
@@ -168,16 +193,134 @@ transform: scale(.5);
 height: 100;
 width: 1550;
 position: absolute;
-top: 2%;
+top: -200%;
+left:750px;
 transform: scale(.5);
+}
+
+.youtube {
+height: 100;
+width: 1250;
+position: absolute;
+top: 220%;
+left: 85%;
+transform: rotate(-40deg);
+}
+
+.watchme {
+height: 100;
+width: 1250;
+position: absolute;
+top: -300%;
+left: 95%;
+transform: scale(.5);
+}
+
+.ra {
+height: 100;
+width: 1550;
+position: absolute;
+top: 30%;
+left: 150%;
+transform: rotate(-20deg);
+}
+
+.lol{
+height: 100;
+width: 1200;
+position: absolute;
+top: 34%;
+left: 55%;
+}
+
+.wtf{
+height: 100;
+width: 500;
+position: absolute;
+top: 20%;
+left: 65%;
+transform: rotate(30deg);
+}
+
+.almondmilk {
+height: 100;
+width: 1550;
+position: absolute;
+top: 15%;
+left: 145%;
+transform: scale(.5);
+}
+
+.artslut {
+height: 100;
+width: 1250;
+position: absolute;
+top: 3300px;
+left: 400px;
+transform: rotate(-40deg);
+}
+
+.netflixandchill {
+height: 100;
+width: 1250;
+position: absolute;
+top: 2900px;
+left: 800px;
+transform: scale(.5);
+}
+
+.fail {
+height: 100;
+width: 700;
+position: absolute;
+top: 60%;
+left: 65%;
+transform: rotate(30deg);
+}
+
+.hipsterzone {
+height: 100;
+width: 1250;
+position: absolute;
+top: 10%;
+left: 120%;
+transform: rotate(-30deg);
+}
+
+.sex {
+height: 120;
+width: 1350;
+position: absolute;
+top: 150%;
+left: 220%;
+transform: rotate(-30deg);
+}
+
+.youare {
+height: 100;
+width: 1250;
+position: absolute;
+top: 1200px;
+left: 400px;
+transform: scale(.5);
+}
+
+.amazon {
+height: 100;
+width: 1250;
+position: absolute;
+top: 1100px;
+left: 800px;
+transform: rotate(-40deg);
 }
 
 
 
 
 
+
  .north {
-  font-size: 10px;
+  font-size: 14px;
   font-family: helvetica;
   border: 4px;
   width: 100%;
@@ -190,7 +333,7 @@ transform: scale(.5);
 
 
  .south {
-  font-size: 10px;
+  font-size: 14px;
   font-family: helvetica;
   border: 4px;
   width: 100%;
@@ -202,7 +345,7 @@ transform: scale(.5);
 
 
  .east {
-  font-size: 10px;
+  font-size: 14px;
   font-family: helvetica;
   border: 4px;
   height: 100%;
@@ -213,7 +356,7 @@ transform: scale(.5);
   left:3%;
  }
 .west {
-  font-size: 10px;
+  font-size: 14px;
   font-family: helvetica;
   border: 4px;
   height: 100%;
@@ -272,16 +415,17 @@ transform: scale(.5);
 
 .white{background:white}
 
+#yellow {background-color:yellow}
+
 
 
 
 .mediacircle {
 	border-radius:50%;
-	width: 1100px;
-	height: 1100px; 
-	background-color:aqua;
+	width: 1400px;
+	height: 1400px;
 	border-style: double; solid;
-	border-color: aqua;
+	border-color: none;
 	background-color: transparent;
 	position: absolute;
 	top: 8%;
@@ -294,9 +438,8 @@ transform: scale(.5);
 	width: 900px;
 	height: 900px; 
 	margin-left: 3000px;
-	background-color:aqua;
 	border-style: double; solid;
-	border-color: aqua;
+	border-color: transparent;
 	background-color: transparent;
 }
 
@@ -2223,6 +2366,217 @@ transform: scale(.5);
 	z-index: 1;
 }
 
+
+
+/* LETTER s*/
+
+.s-mid1{
+	top:25px;
+	left:90px;
+	transform: rotate(-25deg);
+}
+
+
+.s-verticalmid1{
+	width:1px;
+	height:140px;
+}
+
+.s-top1{
+	width:1px;
+	height:60px;
+}
+
+.s-topvert1 {
+	top:-10px;
+	left:133px;
+	transform: rotate(-60deg);
+}
+
+.s-top2{
+	width:1px;
+	height:60px;
+}
+
+.s-topvert2 {
+	top:-10px;
+	left:85px;
+	transform: rotate(60deg);
+}
+
+.s-bottom1{
+	width:1px;
+	height:60px;
+}
+
+.s-bottomvert {
+	top:143px;
+	left:43px;
+	transform: rotate(-60deg);
+}
+
+.s-bottom2{
+	width:1px;
+	height:60px;
+}
+
+.s-bottomvert2 {
+	top:145px;
+	left:93px;
+	transform: rotate(60deg);
+}
+.s-circle {
+	border-radius:50%;
+	width: 10px;
+	height: 10px; 
+	margin-left: 105px;
+	margin-top: 3px;
+	background-color: white;
+	
+}	
+.s-circle2 {
+	border-radius:50%;
+	width: 7px;
+	height: 7px; 
+	margin-left:155px;
+	margin-top: 17px;
+	background-color: white;
+	
+	}
+
+.s-circle3 {
+	border-radius:50%;
+	width: 7px;
+	height: 7px; 
+	margin-left:58px;
+	margin-top: -7px;
+	background-color: white;
+}
+
+.s-circle4 {
+	border-radius:50%;
+	width:10px;
+	height: 10px; 
+	margin-left:63px;
+	margin-top: 145px;
+	background-color: white;
+}
+
+
+.s-circle5 {
+	border-radius:50%;
+	width:7px;
+	height: 7px; 
+	margin-left:115px;
+	margin-top: -35px;
+	background-color: white;
+}
+
+.s-circle6 {
+	border-radius:50%;
+	width:11px;
+	height: 11px; 
+	margin-left:14px;
+	margin-top: -10px;
+	background-color: white;
+}
+
+
+
+/* LETTER U*/
+
+.u-mid1{
+	top:10px;
+	left:125px;
+	transform: rotate(5deg);
+}
+.u-mid2{
+	top:10px;
+	left:10px;
+	transform: rotate(-5deg);
+}
+
+.u-verticalmid1{
+	width:1px;
+	height:150px;
+}
+
+.u-verticalmid2{
+	width:1px;
+	height:150px;
+}
+
+.u-bottom1{
+	width:1px;
+	height:60px;
+}
+
+.u-bottomvert {
+	top:143px;
+	left:43px;
+	transform: rotate(-60deg);
+}
+
+.u-bottom2{
+	width:1px;
+	height:60px;
+}
+
+.u-bottomvert2 {
+	top:145px;
+	left:93px;
+	transform: rotate(60deg);
+}
+
+
+
+
+.u-circle {
+	border-radius:50%;
+	width: 10px;
+	height: 10px; 
+	margin-left: 0px;
+	margin-top: 9px;
+	background-color: white;
+	
+}	
+.u-circle2 {
+	border-radius:50%;
+	width: 7px;
+	height: 7px; 
+	margin-left:129px;
+	margin-top: -10px;
+	background-color: white;
+	
+	}
+
+.u-circle3 {
+	border-radius:50%;
+	width: 7px;
+	height: 7px; 
+	margin-left:15px;
+	margin-top: 139px;
+	background-color: white;
+}
+
+.u-circle4 {
+	border-radius:50%;
+	width:10px;
+	height: 10px; 
+	margin-left:65px;
+	margin-top: 20px;
+	background-color: white;
+}
+
+
+.u-circle5 {
+	border-radius:50%;
+	width:7px;
+	height: 7px; 
+	margin-left:115px;
+	margin-top: -35px;
+	background-color: white;
+}
 
 
 
