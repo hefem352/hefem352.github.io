@@ -1,0 +1,27 @@
+.hide {
+  display: none;
+}
+
+.yellow { color: yellow; }
+.blue { color: blue; }
+.red { color: red; }
+ 
+
+
+ .times { font-family: Times, serif; }
+ .comic { font-family: 'Comic Sans MS', sans-serif; }
+ .helvetica { font-family: helvetica; }
+ .georgia {font-family: georgia;}
+
+body {
+ font-size: 50px;
+ font-family: helvetica;
+ position: center;
+ position: fixed;
+}
+
+.img {
+
+	width: 300px;
+	height: 200px;
+}

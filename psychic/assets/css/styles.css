@@ -1,0 +1,94 @@
+html, body {
+  height: 100%;
+ }
+
+ html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+
+}
+
+@font-face { font-family: "OratorStd"; src: url("../typeface/OratorStd.otf"); }
+
+
+body {
+ font-size: 20px;
+ font-family: OratorStd;
+ position: fixed;
+ color: white;
+}
+
+.object:hover .image {
+  display: block;
+}
+
+.object:hover .text {
+  display: none;
+}
+
+
+
+
+
+.logo {
+position: absolute;
+margin-top: 4%;
+width: 100%;
+height: 100%;
+margin-left: 1110%;
+
+}
+
+.container {
+width: 100%;
+height: 100%;
+background-color: transparent;
+position: fixed;
+overflow: auto;
+top:32%;
+
+text-align: center;
+}
+
+
+	
+
+.object {
+  font-size: 25px;
+  border: 2px solid purple ;
+  /*border-radius:50%; */
+  height: 160px;
+  width: 250px;
+  overflow: hidden;
+  margin: 5px;
+  margin bottom: 20%; 
+  line-height: 180px;
+  display: inline-block;
+  position: relative;
+  
+}
+
+
+a {
+text-decoration: none;
+
+}
+
+
+
+
+
+ .times { font-family: Times, serif; }
+ .comic { font-family: 'Comic Sans MS', sans-serif; }
+ .helvetica { font-family: helvetica; }
+ .georgia {font-family: georgia;}
+
