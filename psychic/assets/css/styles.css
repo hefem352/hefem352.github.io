@@ -45,23 +45,26 @@ body {
 
 }
 
-.hidetext{
-  display:none;
-  background-color: aqua;
-
+.close {
+  position: absolute;
+  top: 45%;
+  width: 200%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 20000;
+  background-color: black;
+  background-image: url("");
+  
 }
 
-.textcontainer {
+.textwrapper {
   background-color: white;
   position: fixed;
   width:100%;
   height: 100%;
-  padding-top: 13%;
-  padding-left: 5%;
-  padding-right: 5%;
+  padding-top: 12%;
+  
   z-index: 10000;
-  cursor: pointer;
-
 }
 
 
