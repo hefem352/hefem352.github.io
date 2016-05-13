@@ -135,7 +135,7 @@ $(".close").click(function() {
 
 $('.textwrapper').hide();
 
-$('.end').show();
+$('.end').hide();
 
 
 
